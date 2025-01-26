@@ -40,7 +40,7 @@ JavaScript (script.js):
 * Manages the image sliders for each wardrobe category, allowing users to navigate through clothing items using "prev" and "next" buttons.  
 * Dynamically updates the displayed image and its corresponding color suggestions.  
 * Generates color suggestion blocks using color codes stored in the “imageSets” array, which reflects harmonious combinations from color theory.  
-* Ensures seamless interaction by adding event listeners for button clicks and dynamically updating the DOM.
+* Ensures seamless interaction by adding event listeners for button.
 
 Image Slider:
 
